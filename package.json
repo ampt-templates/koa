@@ -1,0 +1,17 @@
+{
+  "name": "ampt-koa",
+  "version": "1.0.0",
+  "description": "Starter template for using Koa + Ampt.",
+  "main": "index.js",
+  "type": "module",
+  "dependencies": {
+    "@ampt/sdk": "^1.0.0",
+    "koa": "^2.14.2"
+  },
+  "ampt": {
+    "app": "ampt-koa"
+  },
+  "files": [
+    "*"
+  ]
+}
