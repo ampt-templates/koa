@@ -1,6 +1,5 @@
 <p align="center">
-    <img src="https://ampt.dev/public/templates/ampt-api.svg" alt="ampt-logo" width="75"  height="50"/>
-    <img src="https://ampt.dev/public/templates/koa.svg" alt="koa-logo" width="75" height="50""/>
+    <img src="https://ampt.dev/public/templates/koa.svg" alt="koa-logo" width="100"/>
 </p>
 
 ## Welcome to Ampt!
