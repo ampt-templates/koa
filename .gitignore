@@ -1,2 +1,4 @@
 .ampt/
 node_modules/
+.amptrc
+.ampt*rc

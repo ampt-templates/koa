@@ -9,9 +9,10 @@
     "koa": "^2.14.2"
   },
   "ampt": {
-    "app": "ampt-koa"
+    "app": "",
+    "org": ""
   },
-  "files": [
-    "*"
-  ]
+  "scripts": {
+    "gitpod:ampt": "./node_modules/.bin/ampt"
+  }
 }
